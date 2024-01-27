@@ -1,4 +1,4 @@
-//alert ('Site perigoso, saia imediatamente ! !')//
+alert ('Site perigoso, saia imediatamente ! !')
 
 
 
