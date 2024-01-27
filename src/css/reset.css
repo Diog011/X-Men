@@ -1,0 +1,8 @@
+*{
+    margin:0; /*Espaçamento Externo dos elementos*/
+    padding: 0; /*Espaçamento Interno dos elementos*/
+    box-sizing: border-box; /*Calcula larguras espaço etc*/
+}
+ul{
+ list-style: none;
+}
