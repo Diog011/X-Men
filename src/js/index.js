@@ -1,7 +1,3 @@
-alert ('Site perigoso, saia imediatamente ! !')
-
-
-
 //Objetivo 1 - Quando passar o mouse em cima do personagem na listagem, devemos seleciona-lo
 
  //passo 1: Pegar os personagens no JS pra poder verificar quando o usuário passar o mouse em
